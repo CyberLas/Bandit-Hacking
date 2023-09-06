@@ -1,11 +1,8 @@
-<div style="display: flex; align-items: center">
-    <img src="https://cdn2.iconfinder.com/data/icons/robot-22/512/robot_emoticon_emoji_sticker_computer_hacker-512.png" alt="Cloud" width="200" style="margin-right: 20px">
-    <strong style="text-align: right; font-size: 30px">
-        Bandit Hacking
-        <br>
-        <label style="font-size: 20px">v1.0.0</label>
-    </strong>
-</div>
+<h1 align="center">
+	<img src="https://cdn2.iconfinder.com/data/icons/robot-22/512/robot_emoticon_emoji_sticker_computer_hacker-512.png" alt="Cloud" width="200">
+	<br> Bandit Hacking <br/>
+		v.1.0.0
+</h1>
 
 <br/>
 
