@@ -20,7 +20,7 @@ cd inhere
 # -size 33c     -> Archivos que tengan un tamaño de 1033 bytes. El sufijo c especifica que el tamaño está en bytes.
 # -user         -> El usuario al cual pertenece
 # -group        -> El grupo al cual pertenece
-# 2>/dev/null   -> El número 2 representa el descriptor de archivo para stderr y /dev/null es un archivo especial que descarta cualquier dato escrito en él
+# 2>/dev/null   -> El número 2 representa el descriptor de archivo para (stderr) y /dev/null es un archivo especial que descarta cualquier dato escrito en él
 
 find / -size 33c -user bandit7 -group bandit6 2>/dev/null
 
